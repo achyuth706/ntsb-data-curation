@@ -1,0 +1,20 @@
+# Raw data files — too large to commit; download from https://data.ntsb.gov/avdata
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+

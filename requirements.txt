@@ -1,0 +1,6 @@
+# Python dependencies for ntsb_extract.py
+# System dependency (not pip): mdbtools
+#   Ubuntu/Debian: sudo apt install mdbtools
+#   macOS:         brew install mdbtools
+
+pandas>=1.5.0
