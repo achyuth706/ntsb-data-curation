@@ -1,4 +1,4 @@
-ct_name,code_iaids,meaning,seq,ntsb_type,ntsb_code,avn_code,ntsb_codes_more,not_for_ntsb_use,eADMS_use,notes
+ct_name,code_iaids,meaning,seq,ntsb_type,ntsb_code,avn_code,ntsb_codes_more,not_for_ntsb_use,eadms_use,notes
 ct_office,CEN,Central Region,,,,,,False,True,
 ct_office,CHI,North Central Regional Office,,,,,,False,True,
 ct_office,DCA,Major Investigation,,,,,,False,True,

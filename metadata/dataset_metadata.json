@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "identifier": {
+    "identifier": "10.5281/zenodo.20059187",
+    "identifierType": "DOI"
+  },
+  "creators": [
+    {
+      "nameType": "Personal",
+      "name": "Ariga, Achyutha Sushanth",
+      "givenName": "Achyutha Sushanth",
+      "familyName": "Ariga",
+      "affiliation": [
+        {
+          "name": "University of Illinois Urbana-Champaign, School of Information Sciences"
+        }
+      ]
+    }
+  ],
+  "titles": [
+    {
+      "title": "Curated NTSB Aviation Accident Dataset (Multi-Archive Sample, 2026)"
+    }
+  ],
+  "publisher": "Zenodo",
+  "publicationYear": 2026,
+  "resourceType": {
+    "resourceTypeGeneral": "Dataset",
+    "resourceType": "Dataset"
+  },
+  "subjects": [
+    { "subject": "aviation safety" },
+    { "subject": "aviation accidents" },
+    { "subject": "transportation" },
+    { "subject": "accident investigation" },
+    { "subject": "data curation" },
+    { "subject": "NTSB" },
+    { "subject": "National Transportation Safety Board" }
+  ],
+  "dates": [
+    { "date": "2026-05-05", "dateType": "Created" },
+    { "date": "2026-05-06", "dateType": "Updated" }
+  ],
+  "language": "en",
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://github.com/achyuth706/ntsb-data-curation",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "https://data.ntsb.gov/avdata",
+      "relatedIdentifierType": "URL",
+      "relationType": "IsDerivedFrom",
+      "resourceTypeGeneral": "Dataset"
+    }
+  ],
+  "sizes": [
+    "0.63 MB (six processed CSV tables)",
+    "2.33 MB (five reference CSV tables)"
+  ],
+  "formats": [
+    "text/csv",
+    "application/json",
+    "text/markdown"
+  ],
+  "version": "1.0.0",
+  "rightsList": [
+    {
+      "rights": "Creative Commons Zero v1.0 Universal",
+      "rightsURI": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rightsIdentifier": "CC0-1.0",
+      "rightsIdentifierScheme": "SPDX"
+    }
+  ],
+  "descriptions": [
+    {
+      "descriptionType": "Abstract",
+      "description": "A curated multi-archive sample of the NTSB Aviation Accident Database, derived from four monthly NTSB update archives (filenames: up01DEC, up01JAN, up01FEB, up01JUL) acquired in March 2026 from https://data.ntsb.gov/avdata. The pipeline extracts six core relational tables (events, aircraft, injury, narratives, flight_crew, engines) and five reference tables from Microsoft Access (.mdb) archives, applies documented cleaning steps, merges across archives using NTSB natural keys with deduplication retaining the most recent record, and generates a data dictionary and controlled vocabulary documentation aligned with FAIR principles. The curated dataset comprises 253 events, 256 aircraft records, 1,375 injury records, 71 narrative records, 63 flight crew records, and 53 engine records, along with provenance logs and a DataCite-compliant metadata record."
+    }
+  ]
+}
