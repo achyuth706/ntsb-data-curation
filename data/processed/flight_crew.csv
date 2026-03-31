@@ -1,40 +1,64 @@
-ev_id,aircraft_key,crew_no,crew_category,crew_age,crew_sex,crew_city,crew_res_state,crew_res_country,med_certf,med_crtf_vldty,date_lst_med,crew_rat_endorse,crew_inj_level,seatbelts_used,shldr_harn_used,crew_tox_perf,seat_occ_pic,pc_profession,bfr,bfr_date,ft_as_of,lchg_date,lchg_userid,seat_occ_row,infl_rest_inst,infl_rest_depl,child_restraint,med_crtf_limit,mr_faa_med_certf,pilot_flying,available_restraint,restraint_used
-20200821X74853,1,1,PLT,55.0,M,Dyersburg,TN,USA,CL2,WWL,2020-01-06,,FATL,,,Y,SNGL,Yes,,2020-01-11,,2025-06-24 16:43:22,dobn,,,,,"Must wear corrective lenses, Possess glasses for near and intermediate vision",,True,,
-20200220X10054,1,1,PLT,31.0,M,Brownwood,TX,USA,CL2,WOWL,2019-11-27,,FATL,,,Y,LEFT,Yes,,,,2025-06-24 16:46:12,dobn,,,,,,,True,,
-20190118X92207,1,1,PLT,50.0,M,San Antonio,TX,USA,CL2,WWL,2018-10-09,,FATL,,,Y,LEFT,No,,2018-10-28,2018-10-09,2025-06-24 16:47:58,dobn,,N,,,Must wear corrective lenses,,True,U,U
-20190820X22547,1,1,PLT,64.0,M,Chelsea,MI,USA,CL1,WWL,2019-06-07,,FATL,,,N,LEFT,Yes,,,,2025-06-24 16:51:21,dobn,,N,,,Must Wear Corrective Lens,,True,L,L
-20190820X22547,1,2,PRPS,64.0,,Howell,MI,USA,CL3,NONE,2017-10-04,,FATL,,,N,RGT,No,,,,2025-06-24 16:51:21,dobn,,N,,,,,True,L,L
-20210804103632,1,1,PLT,64.0,M,West Point,MS,USA,CL2,WOWL,2020-10-01,,FATL,,,Y,FRT,No,,,,2025-06-24 16:52:31,dobn,,N,,,,,True,,
-20210804103632,1,2,PASS,13.0,,Starkville,MS,USA,,,,,FATL,,,,REAR,No,,,,2025-06-24 16:52:31,dobn,,N,,,,,False,,
-20190706X51649,1,1,PLT,65.0,M,Covington,LA,USA,NONE,,,,FATL,,,Y,FRT,No,,,,2025-06-24 16:58:48,dobn,,,,,,,True,4,4
-20190317X93630,1,1,PLT,44.0,M,Phoenix,AZ,USA,CL2,WOWL,2018-08-02,,FATL,,,Y,LEFT,Yes,,,,2025-06-24 16:59:48,dobn,,N,,,,,True,U,U
-20180308X30039,1,1,PLT,56.0,M,Laredo,TX,USA,CL2,WWL,2017-05-15,,FATL,,,Y,UNK,UNK,,,,2025-06-24 17:02:42,dobn,,N,,,Must have available glasses for near vision,,True,U,U
-20180308X30039,1,2,PRPS,19.0,,Bruni,TX,USA,UNK,,,,FATL,,,Y,UNK,No,,,,2025-06-24 17:02:42,dobn,,N,,,,,True,U,U
-20190718X24132,1,1,PLT,71.0,M,,,USA,NONE,,,,FATL,,,N,SNGL,No,,,,2025-06-24 17:04:00,dobn,,,,,,,True,,
-20200920X20031,1,1,PLT,63.0,M,Kokomo,IN,USA,CL2,WWL,2019-10-29,,FATL,,,Y,LEFT,No,,,2020-09-16,2025-06-24 17:04:56,dobn,,,,,,,True,,
-20181014X11140,1,1,PLT,63.0,M,,,USA,CL3,WWL,2017-07-22,,FATL,,,Y,RGT,No,,2016-09-25,2016-07-22,2025-06-24 17:07:33,dobn,,,,,"Must wear lenses for distant, have glasses for near vision",,True,3,3
-20181014X11140,1,2,PASS,,,,,USA,,,,,FATL,,,N,LEFT,No,,,,2025-06-24 17:07:33,dobn,,,,,,,True,,
-20181115X30855,1,1,PLT,69.0,M,,,USA,CL2,WWL,2017-05-04,,FATL,,,Y,LEFT,Yes,,,2018-10-16,2025-06-24 17:08:24,dobn,,,,,Must wear corrective lenses.,,True,,
-20181115X30855,1,2,PASS,64.0,,,,USA,,,,,FATL,,,N,RGT,No,,,,2025-06-24 17:08:24,dobn,,,,,,,True,,
-20210919103903,1,1,PLT,64.0,M,Medina,OH,USA,BASC,WOWL,,,FATL,,,Y,LEFT,No,,,2011-08-01,2025-06-24 17:09:17,dobn,,N,,,,,True,U,U
-20191120X01106,1,1,PLT,48.0,M,West Lake Hills,TX,USA,CL1,WWL,2019-02-04,,FATL,,,Y,LEFT,No,,,,2025-06-24 17:10:19,dobn,,N,,,Must have glasses available for near vision,,True,3,3
-20230508114699,1,1,PLT,54.0,M,Clarksville,GA,USA,CL2,WOWL,2022-02-02,,FATL,,,Y,LEFT,No,,,2023-05-06,2025-06-24 18:00:00,mont,,N,,,NONE,,True,4,4
-20230603192296,1,1,PLT,73.0,M,Tupelo,MS,USA,CL3,WWL,2022-09-21,,FATL,,,Y,LEFT,No,,2022-12-18,,2025-06-24 18:00:02,scoj1,,,,,MUST WEAR CORRECTIVE LENSES. NOT VALID FOR ANY CLASS AFTER. 20230930,,False,,
-20230603192296,1,2,PLT,52.0,M,Tupelo,MS,USA,CL3,WOWL,2021-12-15,,FATL,,,Y,RGT,No,,,2021-12-15,2025-06-24 18:00:02,scoj1,,,,,,,False,,
-20230606192324,1,1,PLT,52.0,M,Toronto,OF,CA,CL3,,2006-03-24,,FATL,,,Y,LEFT,No,,,,2025-06-24 18:00:05,grer,,Y,Y,,,,False,4,4
-20230606192324,1,2,FLTI,52.0,M,Coldwater,OF,CA,CL1,WWL,2023-04-13,,FATL,,,Y,RGT,Yes,,,2023-04-13,2025-06-24 18:00:05,grer,,Y,Y,,Must use corrective lenses,,False,4,4
-20230609192341,1,1,PLT,68.0,M,Draper,UT,USA,CL1,WWL,2023-05-05,,NONE,,,,LEFT,Yes,,2023-01-23,2023-06-15,2025-06-24 18:00:05,broda,,N,,,Not valid for any class after 5/31/2024 Must use corrective lenses to meet vision standards at all required distances,,True,L,L
-20230610192348,1,1,PLT,54.0,M,Charleston,SC,USA,CL3,WOWL,2022-10-04,,FATL,,,Y,LEFT,No,,2022-10-18,2022-10-04,2025-06-24 18:00:06,diad,,N,,,,,True,L,U
-20230612192352,1,1,PLT,73.0,M,Venice,FL,USA,BASC,,2021-09-07,,SERS,,,,LEFT,No,,,2017-04-04,2025-06-24 18:00:06,coln,,N,,,,,True,N,U
-20230630192494,1,1,PLT,47.0,M,Plymouth,MN,USA,CL3,WOWL,2021-12-15,,FATL,,,Y,LEFT,No,,2021-12-12,2023-06-11,2025-06-24 18:00:08,frik,,N,,,,,True,3,3
-20230713192623,1,1,PLT,46.0,M,Lynchburg,VA,USA,CL2,WOWL,2022-09-20,,SERS,,,,SNGL,Yes,,2022-12-07,2023-07-12,2025-06-24 18:00:08,mccl3,,N,,,,,True,5,5
-20230725192704,1,1,PLT,44.0,M,West Yellowston,MT,USA,CL2,WOWL,2023-05-05,,SERS,,,,RGT,Yes,,2022-11-03,,2025-06-24 18:00:09,diad,,N,,,NONE,,True,4,U
-20240611194439,1,1,PLT,27.0,M,Soldotna,AK,USA,CL1,WOWL,2023-12-06,,NONE,,,,LEFT,Yes,,2023-11-12,2024-06-20,2025-06-24 18:00:12,coln,,U,,,,,True,L,L
-20240611194439,1,2,PASS,,,Soldotna,AK,USA,,,,,NONE,,,,UNK,,,,,2025-06-24 18:00:12,coln,,,,,,,False,,
-20240611194439,1,3,PASS,,,Atlanta,GA,USA,,,,,NONE,,,,UNK,,,,,2025-06-24 18:00:12,coln,,,,,,,False,,
-20240611194439,1,4,PASS,,,Atlanta,GA,USA,,,,,NONE,,,,UNK,,,,,2025-06-24 18:00:12,coln,,,,,,,False,,
-20240611194439,1,5,PASS,,,Dublin,OF,,,,,,NONE,,,,UNK,,,,,2025-06-24 18:00:12,coln,,,,,,,False,,
-20240611194439,1,6,PASS,,,Dublin,OF,,,,,,SERS,,,,UNK,,,,,2025-06-24 18:00:12,coln,,,,,,,False,,
-20240621194519,1,1,FLTI,28.0,M,Riverview,FL,USA,CL1,WOWL,2024-03-20,,NONE,,,,LEFT,Yes,,2023-04-19,,2025-06-24 18:00:13,coln,,N,,,,,True,3,3
-20240621194519,1,2,PLT,23.0,M,Spring Hill,FL,USA,CL3,WOWL,2020-02-07,,NONE,,,,RGT,Yes,,2022-06-14,,2025-06-24 18:00:13,coln,,N,,,,,False,3,3
-20250311199837,1,1,PLT,31.0,M,Fairbanks,AK,USA,CL2,WWL,2023-08-09,,NONE,,,,LEFT,No,,2023-04-18,,2025-06-30 17:20:46,broda,,N,,,Must wear corrective lenses,,True,3,3
+ev_id,aircraft_key,crew_no,crew_category,crew_age,crew_sex,crew_city,crew_res_state,crew_res_country,med_certf,med_crtf_vldty,date_lst_med,crew_rat_endorse,crew_inj_level,seatbelts_used,shldr_harn_used,crew_tox_perf,seat_occ_pic,pc_profession,bfr,bfr_date,ft_as_of,lchg_date,lchg_userid,seat_occ_row,infl_rest_inst,infl_rest_depl,child_restraint,med_crtf_limit,mr_faa_med_certf,pilot_flying,available_restraint,restraint_used,source_archive
+20231206193483,1,1,PLT,68.0,M,Snowflake,AZ,USA,SPRT,,,,SERS,,,,LEFT,No,,2023-11-20,2023-12-05 00:00:00,2025-11-25 19:00:02,sufp,,N,,,,,True,4,4,up01DEC.mdb
+20240430194174,1,1,PLT,61.0,M,Bemidji,MN,USA,CL2,WOWL,2024-03-26,,SERS,,,,LEFT,No,,2024-02-02,,2025-11-25 19:00:05,coln,,N,,,,,True,3,3,up01DEC.mdb
+20240624194530,1,1,FLTI,24.0,M,San Antonio,TX,USA,CL1,WOWL,2024-04-29,,NONE,,,,RGT,Yes,,2024-04-17,,2025-11-25 19:00:06,coln,,Y,N,,,,True,4,4,up01DEC.mdb
+20240624194530,1,2,PLT,52.0,M,San Antonio,TX,USA,CL3,WOWL,2024-05-16,,NONE,,,,LEFT,No,,,,2025-11-25 19:00:06,coln,,Y,N,,,,False,4,4,up01DEC.mdb
+20251014201850,1,1,PLT,,,,,,,,,,,,,,,,,,,2026-01-23 21:55:20,stes-i,,,,,,,False,,,up01FEB.mdb
+20251014201850,1,2,PASS,,,,,,,,,,,,,,,,,,,2026-01-23 21:55:20,stes-i,,,,,,,False,,,up01FEB.mdb
+20251014201850,1,3,PASS,,,,,,,,,,,,,,,,,,,2026-01-23 21:55:20,stes-i,,,,,,,False,,,up01FEB.mdb
+20211013104098,1,1,PLT,29.0,M,Palmer,AK,USA,CL1,WOWL,2021-01-07,,NONE,,,,RGT,Yes,,2021-06-07,,2026-01-29 19:01:15,dobn,,N,,,,,True,5,5,up01FEB.mdb
+20211013104098,2,1,PLT,50.0,,Greers Ferry,AR,USA,UNK,,,,NONE,,,,NONE,No,,,,2026-01-29 19:01:15,dobn,,,,,,,False,,,up01FEB.mdb
+20240409194055,1,1,PLT,72.0,M,San Luis Obispo,CA,USA,BASC,WWL,2022-10-21,,NONE,,,,LEFT,No,,2023-11-09,,2025-12-22 15:07:12,dobn,,N,,,Must wear corrective lenses,,True,4,4,up01JAN.mdb
+20240409194055,1,2,OTHR,,M,Arroyo Grande,CA,USA,UNK,,,,MINR,,,,RGT,UNK,,,,2025-12-22 15:07:12,dobn,,N,,,,,False,4,4,up01JAN.mdb
+20240215193798,1,1,PLT,24.0,M,Melbourne,FL,USA,CL1,WOWL,2022-04-04,,NONE,,,,LEFT,No,,2024-01-30,,2025-12-22 15:18:22,dobn,,N,,,None,,True,3,3,up01JAN.mdb
+20240215193798,1,2,FLTI,27.0,F,Merritt Island,FL,USA,CL1,WOWL,2019-03-26,,NONE,,,,RGT,Yes,,2024-02-05,,2025-12-22 15:18:22,dobn,,N,,,None,,False,3,3,up01JAN.mdb
+20240215193798,1,3,PASS,,,Melbourne,FL,USA,,,,,NONE,,,,RGT,UNK,,,,2025-12-22 15:18:22,dobn,2.0,N,,,,,False,3,3,up01JAN.mdb
+20240222193827,1,1,PLT,54.0,M,plantation,FL,USA,CL2,WWL,2023-03-01,,NONE,,,,RGT,Yes,,2023-03-05,2024-03-05 00:00:00,2025-12-22 15:29:24,dobn,,N,,,must wear corrective lens,,True,3,3,up01JAN.mdb
+20231017193258,1,1,PLT,48.0,M,Yakima,WA,USA,CL2,WWL,2023-06-10,,NONE,,,,LEFT,Yes,,2022-04-04,,2025-12-22 15:39:02,dobn,,Y,N,,MUST USE CORRECTIVE LEN(ES) TO MEET VISION STANDARDS AT ALL REQUIRED DISTANCES,,True,3,3,up01JAN.mdb
+20231017193258,1,2,PASS,,,Yakima,WA,USA,,,,,NONE,,,,LEFT,,,,,2025-12-22 15:39:02,dobn,3.0,N,,,,,False,3,3,up01JAN.mdb
+20231017193258,1,3,PASS,,,Yakima,WA,USA,,,,,NONE,,,,RGT,,,,,2025-12-22 15:39:02,dobn,3.0,N,,,,,False,3,3,up01JAN.mdb
+20231017193258,1,4,PASS,,,Yakima,WA,USA,,,,,NONE,,,,RGT,,,,,2025-12-22 15:39:02,dobn,1.0,Y,N,,,,False,3,3,up01JAN.mdb
+20240207193761,1,1,PLT,58.0,M,Port Ludlow,WA,USA,CL1,WWL,2023-12-11,,FATL,,,Y,RGT,Yes,,2023-10-06,,2025-12-23 19:00:00,coln,,N,,,Must use corrective lenses to meet vision standards at all distances,,False,5,U,up01JAN.mdb
+20240207193761,1,2,PLT,65.0,M,Gig Harbor,WA,USA,CL1,WTLS,2023-12-11,,FATL,,,Y,LEFT,Yes,,2024-10-28,,2025-12-23 19:00:00,coln,,N,,,Must wear corrective lenses to meet vision standards at all distances,,True,5,U,up01JAN.mdb
+20211216104411,1,1,PLT,51.0,M,Murfreesboro,TN,USA,CL1,WOWL,2021-07-21,,NONE,,,,LEFT,Yes,,2021-01-17,2021-11-21 00:00:00,2025-12-23 20:59:24,dobn,,N,,,,,True,5,5,up01JAN.mdb
+20211216104411,1,2,CPLT,70.0,M,Murfreesboro,TN,USA,CL1,WWL,2021-10-18,,NONE,,,,RGT,Yes,,2020-11-08,2021-11-21 00:00:00,2025-12-23 20:59:24,dobn,,N,,,Glasses Required - Near Vision,,False,5,5,up01JAN.mdb
+20250421200041,1,1,PLT,,,,,FG,,,,,SERS,,,,LEFT,Yes,,,,2025-12-29 13:28:21,schl,,,,,,,True,,,up01JAN.mdb
+20200821X74853,1,1,PLT,55.0,M,Dyersburg,TN,USA,CL2,WWL,2020-01-06,,FATL,,,Y,SNGL,Yes,,2020-01-11,,2025-06-24 16:43:22,dobn,,,,,"Must wear corrective lenses, Possess glasses for near and intermediate vision",,True,,,up01JUL.mdb
+20200220X10054,1,1,PLT,31.0,M,Brownwood,TX,USA,CL2,WOWL,2019-11-27,,FATL,,,Y,LEFT,Yes,,,,2025-06-24 16:46:12,dobn,,,,,,,True,,,up01JUL.mdb
+20190118X92207,1,1,PLT,50.0,M,San Antonio,TX,USA,CL2,WWL,2018-10-09,,FATL,,,Y,LEFT,No,,2018-10-28,2018-10-09 00:00:00,2025-06-24 16:47:58,dobn,,N,,,Must wear corrective lenses,,True,U,U,up01JUL.mdb
+20190820X22547,1,1,PLT,64.0,M,Chelsea,MI,USA,CL1,WWL,2019-06-07,,FATL,,,N,LEFT,Yes,,,,2025-06-24 16:51:21,dobn,,N,,,Must Wear Corrective Lens,,True,L,L,up01JUL.mdb
+20190820X22547,1,2,PRPS,64.0,,Howell,MI,USA,CL3,NONE,2017-10-04,,FATL,,,N,RGT,No,,,,2025-06-24 16:51:21,dobn,,N,,,,,True,L,L,up01JUL.mdb
+20210804103632,1,1,PLT,64.0,M,West Point,MS,USA,CL2,WOWL,2020-10-01,,FATL,,,Y,FRT,No,,,,2025-06-24 16:52:31,dobn,,N,,,,,True,,,up01JUL.mdb
+20210804103632,1,2,PASS,13.0,,Starkville,MS,USA,,,,,FATL,,,,REAR,No,,,,2025-06-24 16:52:31,dobn,,N,,,,,False,,,up01JUL.mdb
+20190706X51649,1,1,PLT,65.0,M,Covington,LA,USA,NONE,,,,FATL,,,Y,FRT,No,,,,2025-06-24 16:58:48,dobn,,,,,,,True,4,4,up01JUL.mdb
+20190317X93630,1,1,PLT,44.0,M,Phoenix,AZ,USA,CL2,WOWL,2018-08-02,,FATL,,,Y,LEFT,Yes,,,,2025-06-24 16:59:48,dobn,,N,,,,,True,U,U,up01JUL.mdb
+20180308X30039,1,1,PLT,56.0,M,Laredo,TX,USA,CL2,WWL,2017-05-15,,FATL,,,Y,UNK,UNK,,,,2025-06-24 17:02:42,dobn,,N,,,Must have available glasses for near vision,,True,U,U,up01JUL.mdb
+20180308X30039,1,2,PRPS,19.0,,Bruni,TX,USA,UNK,,,,FATL,,,Y,UNK,No,,,,2025-06-24 17:02:42,dobn,,N,,,,,True,U,U,up01JUL.mdb
+20190718X24132,1,1,PLT,71.0,M,,,USA,NONE,,,,FATL,,,N,SNGL,No,,,,2025-06-24 17:04:00,dobn,,,,,,,True,,,up01JUL.mdb
+20200920X20031,1,1,PLT,63.0,M,Kokomo,IN,USA,CL2,WWL,2019-10-29,,FATL,,,Y,LEFT,No,,,2020-09-16 00:00:00,2025-06-24 17:04:56,dobn,,,,,,,True,,,up01JUL.mdb
+20181014X11140,1,1,PLT,63.0,M,,,USA,CL3,WWL,2017-07-22,,FATL,,,Y,RGT,No,,2016-09-25,2016-07-22 00:00:00,2025-06-24 17:07:33,dobn,,,,,"Must wear lenses for distant, have glasses for near vision",,True,3,3,up01JUL.mdb
+20181014X11140,1,2,PASS,,,,,USA,,,,,FATL,,,N,LEFT,No,,,,2025-06-24 17:07:33,dobn,,,,,,,True,,,up01JUL.mdb
+20181115X30855,1,1,PLT,69.0,M,,,USA,CL2,WWL,2017-05-04,,FATL,,,Y,LEFT,Yes,,,2018-10-16 00:00:00,2025-06-24 17:08:24,dobn,,,,,Must wear corrective lenses.,,True,,,up01JUL.mdb
+20181115X30855,1,2,PASS,64.0,,,,USA,,,,,FATL,,,N,RGT,No,,,,2025-06-24 17:08:24,dobn,,,,,,,True,,,up01JUL.mdb
+20210919103903,1,1,PLT,64.0,M,Medina,OH,USA,BASC,WOWL,,,FATL,,,Y,LEFT,No,,,2011-08-01 00:00:00,2025-06-24 17:09:17,dobn,,N,,,,,True,U,U,up01JUL.mdb
+20191120X01106,1,1,PLT,48.0,M,West Lake Hills,TX,USA,CL1,WWL,2019-02-04,,FATL,,,Y,LEFT,No,,,,2025-06-24 17:10:19,dobn,,N,,,Must have glasses available for near vision,,True,3,3,up01JUL.mdb
+20230508114699,1,1,PLT,54.0,M,Clarksville,GA,USA,CL2,WOWL,2022-02-02,,FATL,,,Y,LEFT,No,,,2023-05-06 00:00:00,2025-06-24 18:00:00,mont,,N,,,NONE,,True,4,4,up01JUL.mdb
+20230603192296,1,1,PLT,73.0,M,Tupelo,MS,USA,CL3,WWL,2022-09-21,,FATL,,,Y,LEFT,No,,2022-12-18,,2025-06-24 18:00:02,scoj1,,,,,MUST WEAR CORRECTIVE LENSES. NOT VALID FOR ANY CLASS AFTER. 20230930,,False,,,up01JUL.mdb
+20230603192296,1,2,PLT,52.0,M,Tupelo,MS,USA,CL3,WOWL,2021-12-15,,FATL,,,Y,RGT,No,,,2021-12-15 00:00:00,2025-06-24 18:00:02,scoj1,,,,,,,False,,,up01JUL.mdb
+20230606192324,1,1,PLT,52.0,M,Toronto,OF,CA,CL3,,2006-03-24,,FATL,,,Y,LEFT,No,,,,2025-06-24 18:00:05,grer,,Y,Y,,,,False,4,4,up01JUL.mdb
+20230606192324,1,2,FLTI,52.0,M,Coldwater,OF,CA,CL1,WWL,2023-04-13,,FATL,,,Y,RGT,Yes,,,2023-04-13 00:00:00,2025-06-24 18:00:05,grer,,Y,Y,,Must use corrective lenses,,False,4,4,up01JUL.mdb
+20230609192341,1,1,PLT,68.0,M,Draper,UT,USA,CL1,WWL,2023-05-05,,NONE,,,,LEFT,Yes,,2023-01-23,2023-06-15 00:00:00,2025-06-24 18:00:05,broda,,N,,,Not valid for any class after 5/31/2024 Must use corrective lenses to meet vision standards at all required distances,,True,L,L,up01JUL.mdb
+20230610192348,1,1,PLT,54.0,M,Charleston,SC,USA,CL3,WOWL,2022-10-04,,FATL,,,Y,LEFT,No,,2022-10-18,2022-10-04 00:00:00,2025-06-24 18:00:06,diad,,N,,,,,True,L,U,up01JUL.mdb
+20230612192352,1,1,PLT,73.0,M,Venice,FL,USA,BASC,,2021-09-07,,SERS,,,,LEFT,No,,,2017-04-04 00:00:00,2025-06-24 18:00:06,coln,,N,,,,,True,N,U,up01JUL.mdb
+20230630192494,1,1,PLT,47.0,M,Plymouth,MN,USA,CL3,WOWL,2021-12-15,,FATL,,,Y,LEFT,No,,2021-12-12,2023-06-11 00:00:00,2025-06-24 18:00:08,frik,,N,,,,,True,3,3,up01JUL.mdb
+20230713192623,1,1,PLT,46.0,M,Lynchburg,VA,USA,CL2,WOWL,2022-09-20,,SERS,,,,SNGL,Yes,,2022-12-07,2023-07-12 00:00:00,2025-06-24 18:00:08,mccl3,,N,,,,,True,5,5,up01JUL.mdb
+20230725192704,1,1,PLT,44.0,M,West Yellowston,MT,USA,CL2,WOWL,2023-05-05,,SERS,,,,RGT,Yes,,2022-11-03,,2025-06-24 18:00:09,diad,,N,,,NONE,,True,4,U,up01JUL.mdb
+20240611194439,1,1,PLT,27.0,M,Soldotna,AK,USA,CL1,WOWL,2023-12-06,,NONE,,,,LEFT,Yes,,2023-11-12,2024-06-20 00:00:00,2025-06-24 18:00:12,coln,,U,,,,,True,L,L,up01JUL.mdb
+20240611194439,1,2,PASS,,,Soldotna,AK,USA,,,,,NONE,,,,UNK,,,,,2025-06-24 18:00:12,coln,,,,,,,False,,,up01JUL.mdb
+20240611194439,1,3,PASS,,,Atlanta,GA,USA,,,,,NONE,,,,UNK,,,,,2025-06-24 18:00:12,coln,,,,,,,False,,,up01JUL.mdb
+20240611194439,1,4,PASS,,,Atlanta,GA,USA,,,,,NONE,,,,UNK,,,,,2025-06-24 18:00:12,coln,,,,,,,False,,,up01JUL.mdb
+20240611194439,1,5,PASS,,,Dublin,OF,,,,,,NONE,,,,UNK,,,,,2025-06-24 18:00:12,coln,,,,,,,False,,,up01JUL.mdb
+20240611194439,1,6,PASS,,,Dublin,OF,,,,,,SERS,,,,UNK,,,,,2025-06-24 18:00:12,coln,,,,,,,False,,,up01JUL.mdb
+20240621194519,1,1,FLTI,28.0,M,Riverview,FL,USA,CL1,WOWL,2024-03-20,,NONE,,,,LEFT,Yes,,2023-04-19,,2025-06-24 18:00:13,coln,,N,,,,,True,3,3,up01JUL.mdb
+20240621194519,1,2,PLT,23.0,M,Spring Hill,FL,USA,CL3,WOWL,2020-02-07,,NONE,,,,RGT,Yes,,2022-06-14,,2025-06-24 18:00:13,coln,,N,,,,,False,3,3,up01JUL.mdb
+20250311199837,1,1,PLT,31.0,M,Fairbanks,AK,USA,CL2,WWL,2023-08-09,,NONE,,,,LEFT,No,,2023-04-18,,2025-06-30 17:20:46,broda,,N,,,Must wear corrective lenses,,True,3,3,up01JUL.mdb
