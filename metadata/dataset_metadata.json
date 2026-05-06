@@ -1,7 +1,7 @@
 {
   "schemaVersion": "http://datacite.org/schema/kernel-4",
   "identifier": {
-    "identifier": "10.5281/zenodo.placeholder (this will be replaced by the actual DOI from Zenodo after the deposit)",
+    "identifier": "10.5281/zenodo.PENDING",
     "identifierType": "DOI"
   },
   "creators": [
@@ -39,7 +39,7 @@
   ],
   "dates": [
     { "date": "2026-05-05", "dateType": "Created" },
-    { "date": "2026-05-05", "dateType": "Updated" }
+    { "date": "2026-05-06", "dateType": "Updated" }
   ],
   "language": "en",
   "alternateIdentifiers": [
@@ -77,8 +77,11 @@
   "descriptions": [
     {
       "descriptionType": "Abstract",
-      "description": "A curated multi-archive sample of the NTSB Aviation Accident Database, derived from four monthly update archives (December, January, February, and July 2025-2026 cycle) downloaded from https://data.ntsb.gov/avdata. The pipeline extracts six core relational tables (events, aircraft, injury, narratives, flight_crew, engines) and five reference tables from Microsoft Access (.mdb) archives, applies documented cleaning steps, merges across archives using NTSB natural keys with deduplication retaining the most recent record, and generates data dictionary and controlled vocabulary documentation aligned with FAIR principles. The curated dataset comprises 253 events, 256 aircraft records, 1,375 injury records, 71 narrative records, 63 flight crew records, and 53 engine records, along with provenance logs and a DataCite-compliant metadata record."
+      "description": "A curated multi-archive sample of the NTSB Aviation Accident Database, derived from four monthly NTSB update archives (filenames: up01DEC, up01JAN, up01FEB, up01JUL) acquired in March 2026 from https://data.ntsb.gov/avdata. The pipeline extracts six core relational tables (events, aircraft, injury, narratives, flight_crew, engines) and five reference tables from Microsoft Access (.mdb) archives, applies documented cleaning steps, merges across archives using NTSB natural keys with deduplication retaining the most recent record, and generates a data dictionary and controlled vocabulary documentation aligned with FAIR principles. The curated dataset comprises 253 events, 256 aircraft records, 1,375 injury records, 71 narrative records, 63 flight crew records, and 53 engine records, along with provenance logs and a DataCite-compliant metadata record."
+    },
+    {
+      "descriptionType": "Other",
+      "description": "An actual Zenodo deposit has not been performed as part of this course project. The metadata above documents the planned deposit; the DOI placeholder (10.5281/zenodo.PENDING) will be replaced upon deposit."
     }
-  ],
-  "fundingReferences": []
+  ]
 }
